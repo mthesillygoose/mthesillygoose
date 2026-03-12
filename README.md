@@ -64,8 +64,6 @@ A purpose-built tool designed for organizers and GMs who need more than a spread
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mthesillygoose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9B59B6&text_color=ffffff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthesillygoose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff&hide=stars)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mthesillygoose&theme=tokyonight&hide_border=true&background=0d0d0d&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6)
 
 </div>
