@@ -11,13 +11,9 @@
 
 ## 👋 About Me
 
-I'm **Melody** — a software engineer with a love for building systems that *actually work under pressure*. Whether I'm architecting a backend API, scripting game logic, or designing a database schema that won't haunt me in six months, I care deeply about writing clean, purposeful code.
+Hi! I'm **Melody**  a software engineer with a love for building systems that *actually work*.
 
-When I'm not at a keyboard, you'll find me **lost in a book**, **running milsim ops** (in Arma or a real field — yes, both), **obsessing over fighter jets** ✈️, or **being a general silly goose** — sometimes all in the same weekend.
-
-```
-💡 I build for reliability.  I write for readability.  I debug for fun (mostly).
-```
+You'll usually find me, **enjoying some Larping** (in Arma or a real field), **obsessing over fighter jets**, or **driving away at a random project that I will work on for 2 weeks and then throw on the back burner**, sometimes all in the same hour from my untreated ADHD.
 
 ---
 
@@ -26,7 +22,7 @@ When I'm not at a keyboard, you'll find me **lost in a book**, **running milsim 
 ### ⚔️ Project Athena
 > *Unit management & Gamemaster planning software*
 
-A purpose-built tool designed for organizers and GMs who need more than a spreadsheet. Project Athena brings structure to the chaos of managing units, coordinating events, and planning complex scenarios — all in one place.
+A purpose built tool designed for organizers and GMs who need more than a spreadsheet. Project Athena brings structure to the chaos of managing units, coordinating events, and planning complex scenarios. All in one place, easily manageable.
 
 **Stack:** Laravel · React · MySQL · REST API
 
@@ -71,10 +67,9 @@ A purpose-built tool designed for organizers and GMs who need more than a spread
 ```lua
 local Melody = {}
 
-Melody.currently_reading  = "Whatever I grabbed off the shelf last"
-Melody.weekend_activity   = "Milsim ops -- Arma or a real field, no preference"
-Melody.guilty_pleasure    = "Fighter jets. All of them. Always."
-Melody.life_philosophy    = "Ship it, then make it better"
+Melody.weekend_activity   = "Milsim ops - Arma or in real life , no preference"
+Melody.guilty_pleasure    = "Fighter jets. All of them. But my fav is the F/A-18 Superhornet"
+Melody.life_philosophy    = "Ship it, then improve it"
 Melody.spirit_animal      = "A very determined silly goose"
 
 return Melody
