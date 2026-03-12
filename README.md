@@ -30,8 +30,6 @@ I primarily work on backend systems, APIs, and gameplay scripting while also bui
 
 ### 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthesillygoose&layout=compact&theme=tokyonight)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a0dad&height=120&section=footer)
