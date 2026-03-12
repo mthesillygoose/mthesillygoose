@@ -1,12 +1,10 @@
-
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a0dad,100:000000&text=Melody&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Game%20Engineer&descSize=18&descAlignY=68&fontAlignY=40)
 
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Building+the+systems+that+power+experiences.;Backend+first%2C+always.;Game+logic+%7C+Web+architecture+%7C+Clean+APIs.)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -15,7 +13,7 @@
 
 I'm **Melody** — a software engineer with a love for building systems that *actually work under pressure*. Whether I'm architecting a backend API, scripting game logic, or designing a database schema that won't haunt me in six months, I care deeply about writing clean, purposeful code.
 
-When I'm not at a keyboard, you'll find me **lost in a book**, **LARPING**, or **being a general silly goose** — sometimes all three in the same weekend.
+When I'm not at a keyboard, you'll find me **lost in a book**, **running milsim ops** (in Arma or a real field — yes, both), **obsessing over fighter jets** ✈️, or **being a general silly goose** — sometimes all in the same weekend.
 
 ```
 💡 I build for reliability.  I write for readability.  I debug for fun (mostly).
@@ -74,12 +72,13 @@ A purpose-built tool designed for organizers and GMs who need more than a spread
 
 ```lua
 local Melody = {}
- 
+
 Melody.currently_reading  = "Whatever I grabbed off the shelf last"
-Melody.weekend_activity   = "Probably LARPing in a field somewhere"
+Melody.weekend_activity   = "Milsim ops -- Arma or a real field, no preference"
+Melody.guilty_pleasure    = "Fighter jets. All of them. Always."
 Melody.life_philosophy    = "Ship it, then make it better"
 Melody.spirit_animal      = "A very determined silly goose"
- 
+
 return Melody
 ```
 
